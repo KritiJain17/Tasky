@@ -1,0 +1,31 @@
+body{
+  background-color: #EBF2FF;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-weight: bold;
+  font-size: 1.75rem;
+  color: blue;
+}
+
+.btn-primary{
+  font-weight: bold;
+  
+}
+.container-fluid {
+  background-color: white;
+}
+
+@media(min-width:768px)
+{
+  
+}
+
+
+
+
+@media(min-width:1200px){
+  
+}
+
